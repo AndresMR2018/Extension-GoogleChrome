@@ -1,0 +1,10 @@
+{
+    "name":"Freguin",
+    "description":"Extensión para logueo universal",
+    "version":"1.0",
+    "manifest_version":3,
+    "action":{
+        "default_popup":"login.html",
+        "default_title":"FREGUIN"
+        }
+}

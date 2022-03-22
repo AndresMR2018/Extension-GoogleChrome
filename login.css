@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&family=Poppins:ital,wght@1,600&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.container{
+    min-width: 400px;
+    background-color: #fbfbfb;
+}
+
+.actions{
+  text-align: center;
+}
+
+.title{
+    text-align: center;
+    margin-top:10px;
+}
